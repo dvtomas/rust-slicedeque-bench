@@ -1,1 +1,1 @@
-rust-slicedeque.exe 4 100 1 10.1 1 10
+cargo run --release 1 100 1 105 1 100
