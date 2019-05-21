@@ -1,0 +1,10 @@
+[package]
+name = "rust-slicedeque"
+version = "0.1.0"
+authors = ["Tomas Dvorak <dvtomas@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+slice-deque = "0"
+time = "0"
